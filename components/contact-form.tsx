@@ -41,7 +41,7 @@ export function ContactForm({ productId, productName, defaultMessage, onSuccess 
 
     try {
       // Replace YOUR_FORMSPREE_ENDPOINT with your actual Formspree endpoint
-      const response = await fetch("https://formspree.io/f/xanjpgka", {
+      const response = await fetch("https://formspree.io/f/xkgbpvgw", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
